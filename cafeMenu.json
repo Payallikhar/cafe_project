@@ -1,0 +1,608 @@
+{"Chai-Choupati-Cafe-Nagpur":{
+    "Count":1,
+     "items": [{
+        "description": "w",
+        "name":"Menu for Chai-Choupati-Cafe-Nagpr",
+        "entries":{
+            "count":2,
+          "items": [
+            {"Name":"Pizza",
+              "description":"",
+              "entries":{
+                "count":5,
+                "items":[
+                     {
+                    "name": "Farm-House-Pizza",
+                    "price": "$199.00",
+                    "description": "i"
+                  },
+                  {
+                    "name": "Peri-Peri-Paneer",
+                    "price": "$199.00",
+                    "description": ""
+                  },
+                  {
+                    "name": "Cheese Burst",
+                    "price": "$179.00",
+                    "description": ""
+                  },
+                   {
+                    "name": "Baby Corn Pizza",
+                    "price": "$159.00",
+                    "description": ""
+                  },
+                   {
+                    "name": "Veggie Delight",
+                    "price": "$129.00",
+                    "description": ""
+               }
+                ],
+                "Name":"Sandwich",
+              "description":"",
+              "entries":{
+                 "count":6,
+                "items":[
+                     {
+                    "name": "Peri-Peri-Paneer",
+                    "price": "$169.00",
+                    "description": ""
+                  },
+                  {
+                    "name": "Chai Choupati Special",
+                    "price": "$149.00",
+                    "description": ""
+                  },
+                  {
+                    "name": "Cheese Macoroni",
+                    "price": "$149.00",
+                    "description": ""
+                  },
+                  {
+                    "name": "Cheese Corn Sandwich",
+                    "price": "$79.00",
+                    "description": ""
+                  },
+                  {
+                    "name": "Veggi Sandwich",
+                    "price": "$79.00",
+                    "description": ""
+                    
+                  },
+                  {
+                    "name": "Maxican Sandwich",
+                    "price": "$149.00",
+                    "description": ""
+                 }],
+                 "Name":"Maggie",
+              "description":"",
+              "entries":{
+                 "count":5,
+                "items":[
+                    {
+                    "name": "Plain Maggie",
+                    "price": "$49.00",
+                    "description": ""
+                    
+                  },
+                  {
+                    "name": "Masala Maggie",
+                    "price": "$69.00",
+                    "description": ""
+                    
+                  },
+                   {
+                    "name": "Panjabi Tadka",
+                    "price": "$99.00",
+                    "description": ""
+                    
+                  },
+                   {
+                    "name": "Vegitable Maggie",
+                    "price": "$109.00",
+                    "description": ""
+                    
+                  },
+                   {
+                    "name": "Soupy Maggie",
+                    "price": "$119.00",
+                    "description": ""
+                    
+                  } ],
+                  "Name":"Momos",
+              "description":"",
+              "entries":{
+                 "count":4,
+                "items":[
+                     {
+                    "name": "Veg Momos",
+                    "price": "$99.00",
+                    "description": ""
+                    
+                  },
+                  {
+                    "name": "Veg fried Momos",
+                    "price": "$109.00",
+                    "description": ""
+                    
+                  },
+                   {
+                    "name": "Tandoori Momos veg",
+                    "price": "$109.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Tandoori Momos Paneer",
+                    "price": "$109.00",
+                    "description": ""
+                     } ],
+                     "Name":"Momos",
+              "description":"",
+              "entries":{
+                "count":4,
+                "items":[ 
+                    {
+                    "name": "Paneer korma",
+                    "price": "$169.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Masala Mafia",
+                    "price": "$159.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Veggie",
+                    "price": "$149.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "White",
+                    "price": "$139.00",
+                    "description": ""
+                     },
+                   { "name": "Red",
+                    "price": "$129.00",
+                    "description": ""
+                     }],
+                     "Name": "Burger",
+              "description":"",
+              "entries":{
+                "count":9,
+                "items":[
+                    {
+                    "name": "The Paneer King Burger",
+                    "price": "$149.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Cheese please Burger",
+                    "price": "$139.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Double Decker Burger",
+                    "price": "$129.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Paneer Tikka",
+                    "price": "$119.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Maxican",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Amerivan",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Red Hot",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Veggie",
+                    "price": "$59.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Aloo Tikki",
+                    "price": "$55.00",
+                    "description": ""
+                     }],
+                     "Name":"Fries",
+              "description":"",
+              "entries":{
+                "count":9,
+                "items":[
+                    {
+                    "name": "Maharaja Fries",
+                    "price": "$249.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Loaded Fries",
+                    "price": "$149.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Peri Cheese",
+                    "price": "$129.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Tandoori Fries",
+                    "price": "$119.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Cheese Fries",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Cream and onion",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Lemon Chilli",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Masala",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Salted",
+                    "price": "$79.00",
+                    "description": ""
+                     } ],
+                     "Name":"Chai",
+              "description":"",
+              "entries":{
+                "count":11,
+                "items":[
+                     {
+                    "name": "Chai Choupati Special",
+                    "price": "$35.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Kesari",
+                    "price": "$35.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Elaichi",
+                    "price": "$20.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Masala",
+                    "price": "$20.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Tulsi",
+                    "price": "$20.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Ginger Strong",
+                    "price": "$20.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Black peper",
+                    "price": "$20.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Ginger",
+                    "price": "$15.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Laung",
+                    "price": "$15.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Sauf",
+                    "price": "$15.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Ajwain",
+                    "price": "$15.00",
+                    "description": ""
+                     }],
+                     "Name":"Coffee",
+              "description":"",
+              "entries":{
+                "count":6,
+                "items":[
+                     {
+                    "name": "Hazzelnut Coffee",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Irish Coffee",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Caramel Coffee",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Nescafe",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Hot Coffee",
+                    "price": "$69.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Black",
+                    "price": "$49.00",
+                    "description": ""
+                     }],
+                      "Name":"Black Tea",
+              "description":"",
+              "entries":{
+                 "count":7,
+                "items":[
+                    {
+                    "name": "Honey Lemon",
+                    "price": "$45.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Honey",
+                    "price": "$4o.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Black Papper",
+                    "price": "$40.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Lemon Lemon",
+                    "price": "$35.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Tulsi",
+                    "price": "$30.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Ginger",
+                    "price": "$30.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Classic",
+                    "price": "$25.00",
+                    "description": ""
+                     }],
+                     "Name":"Green Tea",
+              "description":"",
+              "entries":{
+                "count":6,
+                "items":[
+                     {
+                    "name": "Honey Lemon",
+                    "price": "$69.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Honey",
+                    "price": "$59.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Lemon",
+                    "price": "$49.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Tulsi",
+                    "price": "$49.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Ginger",
+                    "price": "$49.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Classic",
+                    "price": "$39.00",
+                    "description": ""
+                     }],
+                     "Name":"Ice Tea",
+              "description":"",
+              "entries":{
+                "count":3,
+                "items":[
+                     {
+                    "name": "Lemon Ice Tea",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "IRISH Ice Tea",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Peach Ice Tea",
+                    "price": "$99.00",
+                    "description": ""
+                     } ],
+                      "Name":"Moctails",
+              "description":"",
+              "entries":{
+                "count":14,
+                "items":[
+                    {
+                    "name": "Blue Lagoon",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Virgin Mojito",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Coke Mojito",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Pan Mojito",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                      {
+                    "name": "Spicy Mango",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Blue Berry",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Watermelon",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Pomegranate",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Spicy Lemonade",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Bubblegum",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Chilli guava",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "kala Khatta",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Green apple",
+                    "price": "$79.00",
+                    "description": ""
+                     },
+                       {
+                    "name": "Lemonade",
+                    "price": "$79.00",
+                    "description": ""
+                     }],
+                     "Name":"Chai Choupati Special",
+              "description":"",
+              "entries":{
+                "count":14,
+                "items":[
+                    {
+                    "name": "Cheesy Wissy",
+                    "price": "$99.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "Maggie Bhel",
+                    "price": "$89.00",
+                    "description": ""
+                     },
+                     {
+                    "name": "American Chrunchy Bowl",
+                    "price": "$89.00",
+                    "description": ""
+                     }]
+
+
+              }
+
+              }
+
+
+              }
+
+
+              }
+
+
+              }
+
+              }
+
+
+              }
+
+
+              }
+                    
+            
+
+              }
+
+                
+
+            
+              }
+
+
+              }
+
+
+                
+
+              }
+
+
+              }
+                
+
+              }
+
+          }
+        ]
+
+        }
+
+     }
+
+     ]
+
+} }
+   
